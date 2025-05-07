@@ -10,9 +10,7 @@ I'm a student studying International Business with a strong interest in software
 - 🐍 **Python** – Core syntax, small projects, file handling
 - 💾 **SQL** – Advanced querying, JOINs, subqueries, aggregate functions, data manipulation
 - 📊 **Excel** – Data analysis, functions, charts, advanced formulas
-- 🌐 **English** – Fluent
-- 🇩🇪 **German** – Basic working knowledge
-
+  
 ---
 
 ## 🎯 Goals
