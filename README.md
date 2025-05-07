@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Martin Áshin
 
-<!--
-**ashinmartin01/ashinmartin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student studying International Business with a strong interest in software development. I specialize in **C#** and **Python**, and I'm dedicated to building efficient, clean applications while improving my problem-solving skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills & Tools
+
+- 🧠 **C#** – Console applications, object-oriented programming
+- 🐍 **Python** – Core syntax, small projects, file handling
+- 💾 **SQL** – Advanced querying, JOINs, subqueries, aggregate functions, data manipulation
+- 📊 **Excel** – Data analysis, functions, charts, advanced formulas
+- 🌐 **English** – Fluent
+- 🇩🇪 **German** – Basic working knowledge
+
+---
+
+## 🎯 Goals
+
+- Continue building practical C# and Python applications
+- Enhance my problem-solving and algorithmic skills
+- Pursue internships in tech, finance, or data analysis
+
+Thanks for checking out my profile!
